@@ -1,0 +1,28 @@
+.xml
+{
+    position: absolute;
+    background-image: url('assoc/ps.png');
+    height: 1050px;
+    background-repeat: no-repeat;
+    background-size: 75%;
+    padding-top: 1%;
+    width: 155%;
+    left:-12%
+
+}
+.odx
+{
+    position: absolute;
+    top:1%;
+    left:60%;
+    color: aliceblue;
+    background-color: aliceblue;
+}
+.wox
+{
+    position: absolute;
+    top:4.5%;
+    left:67%;
+    color: rgb(25, 8, 113);
+    background-color: aliceblue;
+}

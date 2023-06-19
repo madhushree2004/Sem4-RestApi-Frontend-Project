@@ -1,0 +1,30 @@
+.madhu5{
+    background-image: url(assoc/post.png);
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: 78%;
+    padding-top: 9%;
+    width: 135%;
+}
+.box5{
+    position: absolute;
+    left: 40%;
+    top: 8.5%;
+    background-color:darkslategrey;
+    width: 25%;
+    border-radius: 5%;
+    height: 85%;
+    color: white;
+}
+.bor
+{
+    position: center;
+    top:100%;
+    height: 40px;
+    width: 138px;
+    left: 30px;
+    color:white;
+    background-color:teal;
+    border: 15px;
+}
+

@@ -1,0 +1,53 @@
+.madhu1{
+    background-image: url('./assoc/m3.jpeg');
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: 78%;
+    padding-top: 9%;
+}
+.box1{
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}
+.bbb
+{
+    position: absolute;
+    top:115%;
+    height: 40px;
+    width: 138px;
+    left: 50%;
+    color: white;
+    background-color: darkgreen;
+    border-color: darkgreen;
+    border-radius: 5%;
+}
+.eee{
+    position: absolute;
+    top: 150%;
+    height: 48px;
+    width: 128px;
+    left: 63%;
+    background-color:rgb(197, 226, 31);
+    color:crimson;
+    border-radius: 5%;
+}
+.www
+{
+    position: absolute;
+    top: 78%;
+    left: 63%;
+    color:crimson;
+
+}
+.sss{
+    position: absolute;
+    top: 146%;
+    left: 35%;
+}
+.uuu{
+    position: absolute;
+    top: -40%;
+    left: 50%;
+
+}

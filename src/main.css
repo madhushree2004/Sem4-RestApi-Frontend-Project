@@ -1,0 +1,61 @@
+.KKK
+{
+    position: absolute;
+    background-image: url('assoc/yin.png');
+    height: 1050px;
+    background-repeat: no-repeat;
+    background-size: 75%;
+    padding-top: 1%;
+    width: 155%;
+    left:-3%
+
+}
+.jjj
+{
+    position: absolute;
+    bottom: 94.7%;
+    left:58.2%;
+    color: aliceblue;
+}
+.DDD
+{
+    position: absolute;
+    height: 1050px;
+    background-repeat: no-repeat;
+    background-size: 75%;
+    padding-top: 1%;
+    width: 155%;
+    top:59%
+
+}
+.zzz
+{
+    position: absolute;
+    top: 55%;
+    left:5.9%;
+    color: white;
+}
+.kbr
+{
+    position: absolute;
+    top: 65%;
+    left:5.9%;
+    color: red;
+}
+.pet
+{
+    position: absolute;
+    top: 0.5%;
+    left:3%;
+    color: goldenrod;
+    size: large;
+}
+.petty
+{
+    position: absolute;
+    top: 0.5%;
+    left:8.5%;
+    color: goldenrod;
+    size: large;
+
+}

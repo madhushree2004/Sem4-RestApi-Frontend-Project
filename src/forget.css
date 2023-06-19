@@ -1,0 +1,28 @@
+.madhu2{
+    background-image: url('./assoc/m2.jpeg');
+    height: 630px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 9%;
+}
+.box2{
+    position: absolute;
+    left: 50%;
+    top: 35%;
+}
+.oyu
+{
+    position: center;
+    top:100%;
+    height: 40px;
+    width: 138px;
+    right: 102%;
+    background-color:darkred;
+    color: white;
+    border-radius: 5%;
+}
+.yyy{
+    position: absolute;
+    bottom: 95%;
+    left: 40%;
+}

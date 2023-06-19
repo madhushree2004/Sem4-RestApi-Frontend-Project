@@ -1,0 +1,31 @@
+.madhu3{
+    background-image: url('./assoc/m1.jpg');
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: 87%;
+    padding-top: 9%;
+    width: 115%;
+}
+.box3{
+    position: absolute;
+    left: 20%;
+    top: 35%;
+}
+.ttt
+{
+    position: absolute;
+    top:110%;
+    height: 40px;
+    width: 138px;
+    left: 38%;
+    color: white;
+    background-color: darkgreen;
+    border-color: darkgreen;
+    border-radius: 5%;
+}
+.FFF
+{
+    position: absolute;
+    bottom:100%;
+    left:20%;
+}
